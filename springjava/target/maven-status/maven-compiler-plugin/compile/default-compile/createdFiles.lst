@@ -1,0 +1,4 @@
+com\kgisl\springjava\controller\Homecontroller.class
+com\kgisl\springjava\config\mvcconfig.class
+com\kgisl\springjava\config\WebInit.class
+com\kgisl\springjava\controller\gcontroller.class
